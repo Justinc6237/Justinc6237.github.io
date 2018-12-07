@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Justin Cruz week 8"
-date: 2018-11-09
+title: "Justin Cruz week 9"
+date: 2018-12-07
+
 ---
-This week we are still trying trying to continue to understand making functions and definitions. Where still working on our comtratcs. And we are understanding why contracts are important. They are important because they help us understand with out the contracts we wouldnt be able to figure out what is inside the perentices that is used inside the contract that would lead to the definition. We did alot of other things to like we made a table. In the table we used data. Within this data we used string Nukber and Boolean in order to make the table. 
+This week we started on making flag collages again. This time e needed more information about the flag. I had the swaeden flag. its blue and have a yellow crose. The blue meaurments go from 4:5 blue 2:2 yellow and 4:9 blue again. Not everyone was constructed. This lead to a class discution on how the class should be for the remaining og the year. We talked about how much more we need to work on and learn about. 
+ 
